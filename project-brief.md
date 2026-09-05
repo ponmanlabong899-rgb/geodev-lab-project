@@ -1,8 +1,8 @@
 # My project brief
 ## The question
-Which settlements in Jos North LGA sit within 200 metres of a watercourse and in low-lying land?
+Where are Jos's tin-mining ponds concentrated, and how has the extent of mined/degraded land in Jos North and Jos South LGAs changed between 2000 and 2024?
 
-- LGA boundary – GRID3 – https://data.grid3.org/datasets/GRID3::grid3-nga-operational-lga-boundaries/about – GeoPackage – small
-- Settlement extents – GRID3 – https://data.grid3.org/datasets/GRID3::grid3-nga-settlement-extents-v4-1/about – GeoPackage – varies by LGA
-- Watercourses – OpenStreetMap via QuickOSM – extracted for Jos North LGA – GeoJSON/Shapefile – small
-- Elevation – Copernicus GLO-30 DEM via OpenTopography – https://portal.opentopography.org – GeoTIFF – 30 m resolution
+- LGA boundaries – OCHA/HDX Nigeria COD-AB – https://data.humdata.org/dataset/cod-ab-nga – Shapefile – a few MB
+- Landsat imagery (2000) – USGS EarthExplorer – https://earthexplorer.usgs.gov/ – GeoTIFF – several hundred MB per scene
+- Sentinel-2 imagery (current) – Copernicus Data Space Ecosystem – https://browser.dataspace.copernicus.eu/ – GeoTIFF – around 1 GB per tile
+- Gridded population (context) – WorldPop Nigeria – https://www.worldpop.org/ – GeoTIFF – tens of MB
