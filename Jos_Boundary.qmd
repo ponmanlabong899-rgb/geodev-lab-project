@@ -1,0 +1,55 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.44.14-Solothurn">
+  <identifier>GRID3 NGA - Operational LGA Boundaries</identifier>
+  <parentidentifier></parentidentifier>
+  <language></language>
+  <type>dataset</type>
+  <title>GRID3 NGA - Operational LGA Boundaries</title>
+  <abstract>Nigeria country-wide operational LGA boundaries (administrative level 2). The LGA boundaries dataset was released in March 2021.
+
+Nigeria Operational Local Government Area (LGA) Boundaries (administrative level 2)</abstract>
+  <keywords vocabulary="Search keys">
+    <keyword>boundaries</keyword>
+    <keyword>NGA</keyword>
+    <keyword>Nigeria</keyword>
+  </keywords>
+  <contact>
+    <contactAddress>
+      <type></type>
+      <address></address>
+      <city></city>
+      <administrativearea></administrativearea>
+      <postalcode></postalcode>
+      <country></country>
+    </contactAddress>
+    <name></name>
+    <organization>eHealth Africa</organization>
+    <position></position>
+    <voice></voice>
+    <fax></fax>
+    <email>info@ciesin.columbia.edu</email>
+    <role></role>
+  </contact>
+  <links/>
+  <dates/>
+  <fees></fees>
+  <constraints type="Limitations of use">The data is licensed under a Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0) and specified in legal code (https://creativecommons.org/licenses/by/4.0/legalcode).</constraints>
+  <rights>eHealth Africa and Proxy Logics. 2020. Nigeria Operational Local Government Area (LGA) Boundaries. Geo-Referenced Infrastructure and Demographic Data for Development (GRID3). https://grid3.gov.ng/.</rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt></wkt>
+      <proj4></proj4>
+      <srsid>0</srsid>
+      <srid>0</srid>
+      <authid></authid>
+      <description></description>
+      <projectionacronym></projectionacronym>
+      <ellipsoidacronym></ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial maxx="14.67796775420826272" minx="2.69261253803820155" miny="4.27020398622497321" minz="0" maxy="13.88571398711063765" maxz="0" crs="EPSG:4326" dimensions="2"/>
+  </extent>
+</qgis>
