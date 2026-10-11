@@ -8,3 +8,4 @@ Built over twelve months with GeoDev Lab Africa, Cohort One.
 See **project-brief.md** for the full brief.
 ## Month 2
 - Week 5: Ran my first Python script (hello.py) from the terminal.
+- Week 6: set up the project with uv and added pandas. check.py prints the pandas version.
