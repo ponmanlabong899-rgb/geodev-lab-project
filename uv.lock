@@ -136,7 +136,7 @@ wheels = [
 [[package]]
 name = "week6"
 version = "0.1.0"
-source = { editable = "." }
+source = { virtual = "." }
 dependencies = [
     { name = "pandas" },
 ]
